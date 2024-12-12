@@ -410,7 +410,7 @@ int TackleSuffixExpression(const char * const SuffixExpression)
 
 ### 工程文件结构
 
-![image-20211208002824715](https://gitee.com/Kiumb/pic-bed_typora/raw/master/img/image-20211208002824715.png)
+![image-20211208002824715](./img/image-20211208002824715.png)
 
 ## 算法不足
 
